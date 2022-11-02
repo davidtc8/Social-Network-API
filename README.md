@@ -32,3 +32,9 @@ GPL
 # Questions
 - Here's my GitHub Profile in case you want to reach out!: https://github.com/davidtc8
 - Here's my email in case you want to write me: davidtorresc8@gmail.com
+
+# Video Section
+https://user-images.githubusercontent.com/71146674/199562340-55cfcb8b-2f16-4da3-b69d-d2ee5924a22c.mp4
+
+
+
