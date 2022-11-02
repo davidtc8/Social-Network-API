@@ -3,7 +3,7 @@ API for a social network web application where users can share their thoughts, r
 
 # ![license image](https://img.shields.io/badge/license-GPL-brightgreen.svg)
 
-# # Table of Contents
+# Table of Contents
 - [Go to installation section](#-installation)
 - [Go to usage guide section](#-usage-guide)
 - [Go to contribution guidelines section](#-contribution-guidelines)
